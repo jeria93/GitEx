@@ -5,5 +5,7 @@ public class Main {
 
 //        Nu ska vi börja programmera!
 
+        System.out.println("Hej. jag testar mig fram");
+
     }
 }
